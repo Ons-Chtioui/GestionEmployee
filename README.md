@@ -1,12 +1,24 @@
+nstallation and Running
+
 Backend
-Ouvrir le dossier backend
-Installer les dépendances et lancer le projet :
+
+Open the backend folder.
+
+Install dependencies and start the project:
+
 mvn spring-boot:run
+
+
 Frontend
-Ouvrir le dossier frontend
-Installer les dépendances :
+
+Open the frontend folder.
+
+Install dependencies:
 npm install
-Lancer l’application :
+Run the application:
+
+bash
+Copier le code
 npm run dev
 
 <img width="955" height="876" alt="image" src="https://github.com/user-attachments/assets/bbb13086-a3f4-49ef-9233-bb2e6c932a41" />
